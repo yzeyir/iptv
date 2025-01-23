@@ -9,10 +9,14 @@ https://demiroren-live.daioncdn.net/kanald/kanald_720p.m3u8?app=kanald_web&ce=3
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 #EXTINF:-1 tvg-name="Star "tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTODT1C4SB518JljOlb7etd8VRmpGQJSyiFVw&s"group-title="Ulusal":http-referrer="":http-user-agent="",Star
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
+#EXTINF:-1 tvg-id="BeyazTV.tr" tvg-logo="http://assets.tvcdn.net/60d7aaf4-817b-46be-bbab-68f8b30de8fb.png" group-title="Ulusal",Beyaz TV
+http://stream.tvcdn.net/ulusal/beyaz-tv.m3u8
 #EXTINF:-1 tvg-name="Kanal 7 "tvg-id=""tvg-logo="https://play-lh.googleusercontent.com/s029TvwR-pU-SIoJh2GcGIScm4LzsmuTTbwPSCtwIK_6aOOXjQwC6mcHeMrPDst2KYM"group-title="Ulusal":http-referrer="":http-user-agent="",Kanal 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 #EXTINF:-1 tvg-id="TV8.tr" tvg-logo="http://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png" group-title="Ulusal",TV8
 http://stream.tvcdn.net/ulusal/tv8.m3u8
+#EXTINF:-1 tvg-id="360.tr" tvg-logo="http://assets.tvcdn.net/e1c3f150-4f79-4ac4-a893-4cc1144eb2d5.png" group-title="Ulusal",360 TV
+http://stream.tvcdn.net/ulusal/360-tv.m3u8
 #EXTINF:-1 tvg-name="ATV 2"tvg-id=""tvg-logo="https://yt3.googleusercontent.com/7OsZQFhc7xtJKYvTqZKRQBYcBhUSpsYYqD4Z92WKRTlP1XPqaOt5z9sziyiT2kpGTuvHX7ER=s900-c-k-c0x00ffffff-no-rj"group-title="Ulusal":http-referrer="":http-user-agent="",A2
 https://canlitvulusal.xyz/live/a2tv/index.m3u8
 #EXTINF:-1 tvg-name="Teve 2 "tvg-id=""tvg-logo="https://play-lh.googleusercontent.com/oXtnvGvKeRm3A668LZYAlm9TnrPmZWILngjmHvIOvrtajhZfwCUsJxM1_cgqaQlSaZM"group-title="Ulusal":http-referrer="":http-user-agent="",Teve 2
