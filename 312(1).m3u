@@ -65,3 +65,5 @@ https://canlitvulusal.xyz/live/cartoonnetwork/index.m3u8
 http://megaott.live:8080/5Bjh2qUxwXhz/sMH6SaRG72HT/119498
 #EXTINF:-1 tvg-name="Minika çocuk"tvg-id=""tvg-logo=""group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Minika çocuk
 https://trkvz.daioncdn.net/minikago_cocuk/minikago_cocuk_720p.m3u8?e=1737594258&st=ypB7B8UsVyLqCZFpK1nNJA&sid=73kpzfb7mlft&app=8e9e79c3-44e3-4a41-a921-1d8f0e7887c0&ce=3
+#EXTINF:-1 tvg-id="Kanal3.tr" tvg-logo="http://assets.tvcdn.net/56083fc6-468c-4fdd-bb0c-5fbc65316124.png" group-title="Yerel",Kanal 3
+http://stream.tvcdn.net/yerel/kanal-3.m3u8
