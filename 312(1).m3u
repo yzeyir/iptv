@@ -17,7 +17,7 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 http://stream.tvcdn.net/ulusal/tv8.m3u8
 #EXTINF:-1 tvg-id="360.tr" tvg-logo="http://assets.tvcdn.net/e1c3f150-4f79-4ac4-a893-4cc1144eb2d5.png" group-title="Ulusal",360 TV
 http://stream.tvcdn.net/ulusal/360-tv.m3u8
-#EXTINF:-1 tvg-name="ATV 2"tvg-id=""tvg-logo="https://yt3.googleusercontent.com/7OsZQFhc7xtJKYvTqZKRQBYcBhUSpsYYqD4Z92WKRTlP1XPqaOt5z9sziyiT2kpGTuvHX7ER=s900-c-k-c0x00ffffff-no-rj"group-title="Ulusal":http-referrer="":http-user-agent="",A2
+#EXTINF:0 user-agent="Firefox" tvg-id="A2" tvg-name="TR: A2 HD" tvg-logo="http://logo.multicms.info/logoslar/a2.png" group-title="TR-ULUSAL",TR: A2 HD
 https://canlitvulusal.xyz/live/a2tv/index.m3u8
 #EXTINF:-1 tvg-name="Teve 2 "tvg-id=""tvg-logo="https://play-lh.googleusercontent.com/oXtnvGvKeRm3A668LZYAlm9TnrPmZWILngjmHvIOvrtajhZfwCUsJxM1_cgqaQlSaZM"group-title="Ulusal":http-referrer="":http-user-agent="",Teve 2
 https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
@@ -34,11 +34,11 @@ https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="Haber Türk"tvg-id="Haber_HaberTurk"tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5dc2bf0c866ac331e0feb216"group-title="Haber":http-referrer="":http-user-agent="",Haber Türk
 https://ciner-live.daioncdn.net/haberturktv/haberturktv_720p.m3u8
 #EXTINF:0 user-agent="Firefox" tvg-id="CNN TÜRK" tvg-name="TR: CNN TURK FHD" tvg-logo="http://logo.multicms.info/tvlogo/cnnturk.png" group-title="TR-HABER",TR: CNN TURK FHD
-http://209696.hermanos2.eu:80/sencerbey1985/884nfz75ig/149
+http://54687.performservers.at:80/GurkanKarabulut/fZLWKKJ2d6/149
 #EXTINF:-1 tvg-name="NTV"tvg-id="Haber_NTV"tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/56a72d98058d024d98970264"group-title="Haber":http-referrer="":http-user-agent="",NTV
 https://dogus.daioncdn.net/ntv/ntv_720p.m3u8?token=e8c0dec16bf84c8cc187224d13811c0e705fd2c58b25d7ee&sid=73ko90juardc&app=c68bddbe-3dbf-49f7-892a-93de5ae37f1f&ce=3
 #EXTINF:0 user-agent="Firefox" tvg-id="A Haber" tvg-name="TR: A HABER FHD" tvg-logo="http://logo.multicms.info/tvlogo/ahaberhd.png" group-title="TR-HABER",TR: A HABER FHD
-http://209696.hermanos2.eu:80/sencerbey1985/884nfz75ig/139
+http://54687.performservers.at:80/GurkanKarabulut/fZLWKKJ2d6/139
 #EXTINF:-1 tvg-name="Haber Global"tvg-id="Haber_HaberGlobal"tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/603dfe0f866ac31798b3f4fa"group-title="Haber":http-referrer="":http-user-agent="",Haber Global
 https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 #EXTINF:-1 tvg-name="Kanal 24"tvg-id="Haber_Kanal24"tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5dc2bca3866ac331e0feb1ed"group-title="Haber":http-referrer="":http-user-agent="",Kanal 24
@@ -65,33 +65,31 @@ http://stream.tvcdn.net/yerel/kanal-3.m3u8
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="TRT Diyanet Çocuk"tvg-id="CizgiFilm_TRTDiyanet"tvg-logo="http://assets.tvcdn.net/dba05bf2-9d24-4d20-bc6c-f54a2b60ef7f.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",TRT Diyanet Çocuk
 http://stream.tvcdn.net/cocuk-egitim/trt-diyanet-cocuk.m3u8
-#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: AZOOMEE TV" tvg-logo="https://logo.multicms.info/tvlogo/azoomee.jpg" group-title="TR-COCUK",TR: AZOOMEE TV
-http://209696.hermanos2.eu:80/sencerbey1985/884nfz75ig/271328
 #EXTINF:0 user-agent="Firefox" tvg-id="BOOMERANG" tvg-name="TR: CARTOONITO" tvg-logo="http://logo.multicms.info/tvlogo/boomeranghd.png" group-title="TR-COCUK",TR: CARTOONITO
-http://209696.hermanos2.eu:80/sencerbey1985/884nfz75ig/15020
+http://54687.performservers.at:80/GurkanKarabulut/fZLWKKJ2d6/15020
 #EXTINF:0 user-agent="Firefox" tvg-id="CBEEBIES" tvg-name="TR: CBEEBIES" tvg-logo="http://logo.multicms.info/logoslar/cbeebies.png" group-title="TR-COCUK",TR: CBEEBIES
-http://209696.hermanos2.eu:80/sencerbey1985/884nfz75ig/31473
+http://54687.performservers.at:80/GurkanKarabulut/fZLWKKJ2d6/31473
 #EXTINF:0 user-agent="Firefox" tvg-id="Çocuk Smart" tvg-name="TR: COCUK SMART" tvg-logo="http://logo.multicms.info/tvlogo/smartcocuk.png" group-title="TR-COCUK",TR: COCUK SMART
-http://209696.hermanos2.eu:80/sencerbey1985/884nfz75ig/38394
+http://54687.performservers.at:80/GurkanKarabulut/fZLWKKJ2d6/38394
 #EXTINF:0 user-agent="Firefox" tvg-id="TRT Çocuk" tvg-name="TR: TRT COCUK FHD" tvg-logo="http://logo.multicms.info/tvlogo/trtcocukhd.png" group-title="TR-COCUK",TR: TRT COCUK FHD
-http://209696.hermanos2.eu:80/sencerbey1985/884nfz75ig/308
+http://54687.performservers.at:80/GurkanKarabulut/fZLWKKJ2d6/308
 #EXTINF:0 user-agent="Firefox" tvg-id="Minika Çocuk" tvg-name="TR: MINIKA COCUK FHD" tvg-logo="http://logo.multicms.info/tvlogo/minikacocuk.png" group-title="TR-COCUK",TR: MINIKA COCUK FHD
-http://209696.hermanos2.eu:80/sencerbey1985/884nfz75ig/306
+http://54687.performservers.at:80/GurkanKarabulut/fZLWKKJ2d6/306
 #EXTINF:0 user-agent="Firefox" tvg-id="MinikaGO" tvg-name="TR: MINIKA GO FHD" tvg-logo="http://logo.multicms.info/tvlogo/minikago.png" group-title="TR-COCUK",TR: MINIKA GO FHD
-http://209696.hermanos2.eu:80/sencerbey1985/884nfz75ig/304
+http://54687.performservers.at:80/GurkanKarabulut/fZLWKKJ2d6/304
 #EXTINF:0 user-agent="Firefox" tvg-id="Cartoon Network" tvg-name="TR: CARTOON NETWORK HD" tvg-logo="http://logo.multicms.info/tvlogo/cartoonnetwork.png" group-title="TR-COCUK",TR: CARTOON NETWORK HD
-http://209696.hermanos2.eu:80/sencerbey1985/884nfz75ig/301
+http://54687.performservers.at:80/GurkanKarabulut/fZLWKKJ2d6/301
 #EXTINF:0 user-agent="Firefox" tvg-id="NICKTOONS" tvg-name="TR: NICKTOONS" tvg-logo="https://logo.multicms.info/tvlogo/nicktoons.png" group-title="TR-COCUK",TR: NICKTOONS
-http://209696.hermanos2.eu:80/sencerbey1985/884nfz75ig/234450
+http://54687.performservers.at:80/GurkanKarabulut/fZLWKKJ2d6/234450
 #EXTINF:0 user-agent="Firefox" tvg-id="Nickelodeon" tvg-name="TR: NICKELODEON" tvg-logo="http://logo.multicms.info/tvlogo/nickelodeonhd.png" group-title="TR-COCUK",TR: NICKELODEON
-http://209696.hermanos2.eu:80/sencerbey1985/884nfz75ig/298
+http://54687.performservers.at:80/GurkanKarabulut/fZLWKKJ2d6/298
 #EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: TRT Diyanet Cocuk" tvg-logo="https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2042000/trt-cocuk-2042635_1.jpg" group-title="TR-COCUK",TR: TRT Diyanet Cocuk
-http://209696.hermanos2.eu:80/sencerbey1985/884nfz75ig/244105
+http://54687.performservers.at:80/GurkanKarabulut/fZLWKKJ2d6/244105
 #EXTINF:0 user-agent="Firefox" tvg-id="Nick Jr." tvg-name="TR: NICK JR" tvg-logo="http://logo.multicms.info/tvlogo/nickjr.png" group-title="TR-COCUK",TR: NICK JR
-http://209696.hermanos2.eu:80/sencerbey1985/884nfz75ig/297
+http://54687.performservers.at:80/GurkanKarabulut/fZLWKKJ2d6/297
 #EXTINF:0 user-agent="Firefox" tvg-id="Baby TV" tvg-name="TR: BABY TV" tvg-logo="http://logo.multicms.info/tvlogo/babytvhd.png" group-title="TR-COCUK",TR: BABY TV
-http://209696.hermanos2.eu:80/sencerbey1985/884nfz75ig/295
+http://54687.performservers.at:80/GurkanKarabulut/fZLWKKJ2d6/295
 #EXTINF:0 user-agent="Firefox" tvg-id="DUCKTV" tvg-name="TR: DUCK TV" tvg-logo="https://logo.multicms.info/tvlogo/duck.png" group-title="TR-COCUK",TR: DUCK TV
-http://209696.hermanos2.eu:80/sencerbey1985/884nfz75ig/234451
+http://54687.performservers.at:80/GurkanKarabulut/fZLWKKJ2d6/234451
 #EXTINF:0 user-agent="Firefox" tvg-id="Disney Junior" tvg-name="TR: DISNEY JR HD" tvg-logo="http://logo.multicms.info/tvlogo/disneyjuniorhd.png" group-title="TR-COCUK",TR: DISNEY JR HD
-http://209696.hermanos2.eu:80/sencerbey1985/884nfz75ig/291
+http://54687.performservers.at:80/GurkanKarabulut/fZLWKKJ2d6/291
