@@ -17,11 +17,11 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 http://stream.tvcdn.net/ulusal/tv8.m3u8
 #EXTINF:-1 tvg-id="360.tr" tvg-logo="http://assets.tvcdn.net/e1c3f150-4f79-4ac4-a893-4cc1144eb2d5.png" group-title="Ulusal",360 TV
 http://stream.tvcdn.net/ulusal/360-tv.m3u8
-#EXTINF:0 user-agent="Firefox" tvg-id="A2" tvg-name="TR: A2 HD" tvg-logo="http://logo.multicms.info/logoslar/a2.png" group-title="TR-ULUSAL",TR: A2 HD
-https://canlitvulusal.xyz/live/a2tv/index.m3u8
+#EXTINF:-1 tvg-id="A2TV.tr" tvg-logo="https://iatv.tmgrup.com.tr/site/v2/a2tv/i/a2tv-logo.png" group-title="Ulusal",A2TV
+https://c.fulltvizle.com/a2/index.m3u8
 #EXTINF:-1 tvg-name="Teve 2 "tvg-id=""tvg-logo="https://play-lh.googleusercontent.com/oXtnvGvKeRm3A668LZYAlm9TnrPmZWILngjmHvIOvrtajhZfwCUsJxM1_cgqaQlSaZM"group-title="Ulusal":http-referrer="":http-user-agent="",Teve 2
 https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
-#EXTINF:-1 tvg-name="Fox "tvg-id=""tvg-logo="https://gaziantepsabah.com/uploads/haberler/2024/02/1707815076-fox-tv-neden-now-tv-oldu-817x_.jpg?token=7f2508cd78f99260fc0da4481dea7aad"group-title="Ulusal":http-referrer="":http-user-agent="",Fox
+#EXTINF:-1 tvg-name="Fox "tvg-id=""tvg-logo="https://gaziantepsabah.com/uploads/haberler/2024/02/1707815076-fox-tv-neden-now-tv-oldu-817x_.jpg?token=7f2508cd78f99260fc0da4481dea7aad"group-title="Ulusal":http-referrer="":http-user-agent="",Now
 https://c.fulltvizle.com/fox/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="TRT Türk"tvg-id="TRT_Turk"tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/11787778.png"group-title="Ulusal":http-referrer="":http-user-agent="",TRT Türk
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
@@ -33,8 +33,8 @@ https://turkmedya-live.ercdn.net/tv4/tv4_1080p.m3u8
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="Haber Türk"tvg-id="Haber_HaberTurk"tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5dc2bf0c866ac331e0feb216"group-title="Haber":http-referrer="":http-user-agent="",Haber Türk
 https://ciner-live.daioncdn.net/haberturktv/haberturktv_720p.m3u8
-#EXTINF:0 user-agent="Firefox" tvg-id="CNN TÜRK" tvg-name="TR: CNN TURK FHD" tvg-logo="http://logo.multicms.info/tvlogo/cnnturk.png" group-title="TR-HABER",TR: CNN TURK FHD
-http://54687.performservers.at:80/GurkanKarabulut/fZLWKKJ2d6/149
+#EXTINF:-1 tvg-name = "Cnn Turk" tvg-language = "Türkçe" tvg-country = "TR" tvg-id = "Haber_CNNTurk" tvg-logo = " https://imgur.com/ Bu0Wlge.png " group-title="Haber",Cnn Turk
+https://ythls.kekikakademi.org/youtube/channel/UCV6zcRug6Hqp1UX_FdyUeBg.m3u8
 #EXTINF:-1 tvg-name="NTV"tvg-id="Haber_NTV"tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/56a72d98058d024d98970264"group-title="Haber":http-referrer="":http-user-agent="",NTV
 https://dogus.daioncdn.net/ntv/ntv_720p.m3u8?token=e8c0dec16bf84c8cc187224d13811c0e705fd2c58b25d7ee&sid=73ko90juardc&app=c68bddbe-3dbf-49f7-892a-93de5ae37f1f&ce=3
 #EXTINF:0 user-agent="Firefox" tvg-id="A Haber" tvg-name="TR: A HABER FHD" tvg-logo="http://logo.multicms.info/tvlogo/ahaberhd.png" group-title="TR-HABER",TR: A HABER FHD
@@ -65,6 +65,11 @@ http://stream.tvcdn.net/yerel/kanal-3.m3u8
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="TRT Diyanet Çocuk"tvg-id="CizgiFilm_TRTDiyanet"tvg-logo="http://assets.tvcdn.net/dba05bf2-9d24-4d20-bc6c-f54a2b60ef7f.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",TRT Diyanet Çocuk
 http://stream.tvcdn.net/cocuk-egitim/trt-diyanet-cocuk.m3u8
+#EXTINF:-1 tvg-name="Cartoon Network"tvg-id="CizgiFilm_CartoonNetwork"tvg-logo="https://i.ibb.co/X5yPXkD/cartoon-network.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Cartoon Network
+https://canlitvulusal.xyz/live/cartoonnetwork/index.m3u8
+#EXTINF:-1 tvg-name="Cartoonito TV" tvg-language="Turkish" tvg-country="TR" tvg-id="CizgiFilm_CartoonitoTV" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/500x500/64f57b42866ac307e484249e" group-title="ÇizgiFilm",Cartoonito TV
+https://ythls.kekikakademi.org/youtube/channel/UCai9a-7GjCkWiaV7cCkIMJg.m3u8
+# ? https://cartoonito.blutv.com/blutv_cartoonito/smil:cartoonito.smil/playlist.m3u8
 #EXTINF:0 user-agent="Firefox" tvg-id="BOOMERANG" tvg-name="TR: CARTOONITO" tvg-logo="http://logo.multicms.info/tvlogo/boomeranghd.png" group-title="TR-COCUK",TR: CARTOONITO
 http://54687.performservers.at:80/GurkanKarabulut/fZLWKKJ2d6/15020
 #EXTINF:0 user-agent="Firefox" tvg-id="CBEEBIES" tvg-name="TR: CBEEBIES" tvg-logo="http://logo.multicms.info/logoslar/cbeebies.png" group-title="TR-COCUK",TR: CBEEBIES
