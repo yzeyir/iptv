@@ -98,3 +98,10 @@ http://54687.performservers.at:80/GurkanKarabulut/fZLWKKJ2d6/295
 http://54687.performservers.at:80/GurkanKarabulut/fZLWKKJ2d6/234451
 #EXTINF:0 user-agent="Firefox" tvg-id="Disney Junior" tvg-name="TR: DISNEY JR HD" tvg-logo="http://logo.multicms.info/tvlogo/disneyjuniorhd.png" group-title="TR-COCUK",TR: DISNEY JR HD
 http://54687.performservers.at:80/GurkanKarabulut/fZLWKKJ2d6/291
+#EXTINF:-1 tvg-name="TR | ENO Animasyon 1ⓧ FHD"tvg-id="https://www.open-epg.com/files/turkeypremium2.xml"tvg-logo="http://platinumxmedia.xyz:8080/images/3a2500979310fa089c38362dc871e3b5.png"group-title="Sinema":http-referrer="":http-user-agent="",TR | ENO Animasyon 1ⓧ FHD
+http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432268
+#EXTINF:-1 tvg-name="TR | ENO Animasyon 2ⓧ FHD"tvg-id="https://www.open-epg.com/files/turkeypremium2.xml"tvg-logo="http://platinumxmedia.xyz:8080/images/3a2500979310fa089c38362dc871e3b5.png"group-title="Sinema":http-referrer="":http-user-agent="",TR | ENO Animasyon 2ⓧ FHD
+http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432269
+#EXTINF:-1 tvg-name="TR | Max Animasyon 1ⓧ FHD"tvg-id="https://www.open-epg.com/files/turkeypremium2.xml"tvg-logo="http://platinumxmedia.xyz:8080/images/04c37db4ebd44a81e8781c3c5016d6b3.png"group-title="Sinema":http-referrer="":http-user-agent="",TR | Max Animasyon 1ⓧ FHD
+http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432407
+
