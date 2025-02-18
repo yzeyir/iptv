@@ -17,8 +17,6 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 http://stream.tvcdn.net/ulusal/tv8.m3u8
 #EXTINF:-1 tvg-id="360.tr" tvg-logo="http://assets.tvcdn.net/e1c3f150-4f79-4ac4-a893-4cc1144eb2d5.png" group-title="Ulusal",360 TV
 http://stream.tvcdn.net/ulusal/360-tv.m3u8
-#EXTINF:-1 tvg-id="A2TV.tr" tvg-logo="https://iatv.tmgrup.com.tr/site/v2/a2tv/i/a2tv-logo.png" group-title="Ulusal",A2TV
-https://c.fulltvizle.com/a2/index.m3u8
 #EXTINF:-1 tvg-name="Teve 2 "tvg-id=""tvg-logo="https://play-lh.googleusercontent.com/oXtnvGvKeRm3A668LZYAlm9TnrPmZWILngjmHvIOvrtajhZfwCUsJxM1_cgqaQlSaZM"group-title="Ulusal":http-referrer="":http-user-agent="",Teve 2
 https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
 #EXTINF:-1 tvg-name="Fox "tvg-id=""tvg-logo="https://gaziantepsabah.com/uploads/haberler/2024/02/1707815076-fox-tv-neden-now-tv-oldu-817x_.jpg?token=7f2508cd78f99260fc0da4481dea7aad"group-title="Ulusal":http-referrer="":http-user-agent="",Now
@@ -65,8 +63,7 @@ https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
 http://stream.tvcdn.net/cocuk-egitim/trt-diyanet-cocuk.m3u8
 #EXTINF:-1 tvg-name="Cartoon Network"tvg-id="CizgiFilm_CartoonNetwork"tvg-logo="https://i.ibb.co/X5yPXkD/cartoon-network.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Cartoon Network
 https://canlitvulusal.xyz/live/cartoonnetwork/index.m3u8
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/trt1.png" tvg-name="TR:TRT 1 HD" group-title="⚡️Ulusal Kanallar",TR:TRT 1 HD
-http://31.222.206.98/8809/tracks-v1a1/mono.ts.m3u8?token=test
+
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/kanald.png" tvg-name="TR:KANAL D HD" group-title="⚡️Ulusal Kanallar",TR:KANAL D HD
 http://31.222.206.98/8817/tracks-v1a1/mono.ts.m3u8?token=test
 #EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/atv.png" tvg-name="TR:ATV HD" group-title="⚡️Ulusal Kanallar",TR:ATV HD
