@@ -19,8 +19,8 @@ http://stream.tvcdn.net/ulusal/tv8.m3u8
 http://stream.tvcdn.net/ulusal/360-tv.m3u8
 #EXTINF:-1 tvg-name="Teve 2 "tvg-id=""tvg-logo="https://play-lh.googleusercontent.com/oXtnvGvKeRm3A668LZYAlm9TnrPmZWILngjmHvIOvrtajhZfwCUsJxM1_cgqaQlSaZM"group-title="Ulusal":http-referrer="":http-user-agent="",Teve 2
 https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
-#EXTINF:-1 tvg-name="Fox "tvg-id=""tvg-logo="https://gaziantepsabah.com/uploads/haberler/2024/02/1707815076-fox-tv-neden-now-tv-oldu-817x_.jpg?token=7f2508cd78f99260fc0da4481dea7aad"group-title="Ulusal":http-referrer="":http-user-agent="",Now
-https://c.fulltvizle.com/fox/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Now.tr" tvg-logo="http://assets.tvcdn.net/80eb8816-1855-41f5-9002-7a05cc93fe4f.png" group-title="Ulusal",Now TV
+http://stream.tvcdn.net/ulusal/now-tv.m3u8
 #EXTINF:-1 tvg-name="TRT Türk"tvg-id="TRT_Turk"tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/11787778.png"group-title="Ulusal":http-referrer="":http-user-agent="",TRT Türk
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="TRT Avaz"tvg-id="TRT_Avaz"tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/7027789.png"group-title="Ulusal":http-referrer="":http-user-agent="",TRT Avaz
@@ -63,45 +63,3 @@ https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
 http://stream.tvcdn.net/cocuk-egitim/trt-diyanet-cocuk.m3u8
 #EXTINF:-1 tvg-name="Cartoon Network"tvg-id="CizgiFilm_CartoonNetwork"tvg-logo="https://i.ibb.co/X5yPXkD/cartoon-network.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Cartoon Network
 https://canlitvulusal.xyz/live/cartoonnetwork/index.m3u8
-
-#EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/kanald.png" tvg-name="TR:KANAL D HD" group-title="⚡️Ulusal Kanallar",TR:KANAL D HD
-http://31.222.206.98/8817/tracks-v1a1/mono.ts.m3u8?token=test
-#EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/atv.png" tvg-name="TR:ATV HD" group-title="⚡️Ulusal Kanallar",TR:ATV HD
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
-#EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/startv.png" tvg-name="TR:STAR TV HD" group-title="⚡️Ulusal Kanallar",TR:STAR TV HD
-https://dogus-live.daioncdn.net/startv/startv.m3u8
-#EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/showtv.png" tvg-name="TR:SHOW TV HD" group-title="⚡️Ulusal Kanallar",TR:SHOW TV HD
-https://ciner-live.daioncdn.net/showtv/showtv.m3u8
-#EXTINF:-1 tvg-id="Now.tr" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/fox.png" tvg-name="TR:NOW HD" group-title="⚡️Ulusal Kanallar",TR:NOW HD
-http://31.222.206.98/8820/tracks-v1a1/mono.ts.m3u8?token=test
-#EXTINF:-1 tvg-id="TV8.tr" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/tv8.png" tvg-name="TR:TV 8 HD" group-title="⚡️Ulusal Kanallar",TR:TV 8 HD
-http://31.222.206.98/8811/tracks-v1a1/mono.ts.m3u8?token=test
-#EXTINF:-1 tvg-id="TV85.tr" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/tv85.png" tvg-name="TR:TV 8.5 HD" group-title="⚡️Ulusal Kanallar",TR:TV 8.5 HD
-http://31.222.206.98/8814/tracks-v1a1/mono.ts.m3u8?token=test
-#EXTINF:-1 tvg-id="BeyazTV.tr" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/beyaz.png" tvg-name="TR:BEYAZ TV HD" group-title="⚡️Ulusal Kanallar",TR:BEYAZ TV HD
-http://31.222.206.98/8823/tracks-v1a1/mono.ts.m3u8?token=test
-#EXTINF:-1 tvg-id="Kanal7.tr" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/kanal7.png" tvg-name="TR:KANAL 7 HD" group-title="⚡️Ulusal Kanallar",TR:KANAL 7 HD
-https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
-#EXTINF:-1 tvg-id="Teve2.tr" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/teve2.png" tvg-name="TR:TEVE 2 HD" group-title="⚡️Ulusal Kanallar",TR:TEVE 2 HD
-http://31.222.206.98/8818/tracks-v1a1/mono.ts.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/a2.png" tvg-name="TR:A2 HD" group-title="⚡️Ulusal Kanallar",TR:A2 HD
-http://ucanadamsabri.duckdns.org/DeaTHLesS/freeiptv/king.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIwMTkwNTUyNzczYTVjZmIwNDQ0ODY=
-#EXTINF:-1 tvg-id="360.tr" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/360tv.png" tvg-name="TR:360 TV HD" group-title="⚡️Ulusal Kanallar",TR:360 TV HD
-http://31.222.206.98/8844/tracks-v1a1/mono.ts.m3u8?token=test
-#EXTINF:-1 tvg-id="TRTHaber.tr" tvg-logo="http://assets.tvcdn.net/ecbd3154-e8e7-44d7-bcbd-a9bcac9df4de.png" group-title="⚡️Haber",TRT Haber
-http://stream.tvcdn.net/haber/trt-haber.m3u8
-#EXTINF:-1 tvg-id="AHaber.tr" tvg-logo="http://assets.tvcdn.net/06e7abd9-0fbb-441f-af63-b895513d3aaa.png" group-title="⚡️Haber",A Haber
-https://canlitvulusal.xyz/live/ahaber/index.m3u8
-#EXTINF:-1 tvg-id="CNNTurk.tr" tvg-logo="http://assets.tvcdn.net/db0e3f2f-3191-4af2-9cde-5345eb7543e4.png" group-title="⚡️Haber",CNN Türk
-http://31.222.206.98/8861/tracks-v1a1/mono.ts.m3u8?token=test
-#EXTINF:-1 tvg-id="HaberturkTV.tr" tvg-logo="http://assets.tvcdn.net/9fbfa842-0fff-488a-aab7-d534dbbfe8a9.png" group-title="⚡️Haber",Habertürk
-http://stream.tvcdn.net/haber/haberturk.m3u8
-#EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-logo="http://assets.tvcdn.net/d7e11245-3318-4cfd-bd1c-bdbb03d4c76a.png" group-title="⚡️Haber",Haber Global
-http://stream.tvcdn.net/haber/haber-global.m3u8
-#EXTINF:-1 tvg-id="UlkeTV.tr" tvg-logo="http://assets.tvcdn.net/e20947de-9a22-4e53-9f88-b69cdf278be7.png" group-title="⚡️Haber",Ülke TV
-https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
-#EXTINF:-1 tvg-id="EuroD.tr" tvg-logo="http://assets.tvcdn.net/f4a83153-48c6-4ece-8082-1b370768f88a.png" group-title="⚡️Ulusal - Yurt Dışı",Euro D
-http://stream.tvcdn.net/ulusal-yurt-disi/euro-d.m3u8
-#EXTINF:-1 tvg-id="Kanal7Avrupa.tr" tvg-logo="http://assets.tvcdn.net/d52bb3d8-b362-47c0-9b8e-bddc4ceb4fe5.png" group-title="⚡️Ulusal - Yurt Dışı",Kanal 7 Avrupa
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Show_TV_logo.svg/1200px-Show_TV_logo.svg.png" group-title="⚡️Ulusal - Yurt Dışı",Show Turk
-http://31.222.206.98/8845/tracks-v1a1/mono.ts.m3u8?token=test
