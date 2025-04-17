@@ -33,6 +33,8 @@ https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 https://ciner-live.daioncdn.net/haberturktv/haberturktv_720p.m3u8
 #EXTINF:-1 tvg-name = "Cnn Turk" tvg-language = "Türkçe" tvg-country = "TR" tvg-id = "Haber_CNNTurk" tvg-logo = " https://imgur.com/ Bu0Wlge.png " group-title="Haber",Cnn Turk
 http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/2305/index.m3u8
+#EXTINF:-1 tvg-name="CNN TÜRK" tvg-id="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/61236013866ac319e8143500" tvg-logo="" group-title="[🇹🇷TR] HABER",CNN TÜRK
+https://b.fulltvizle.com/cnn/index.m3u8
 #EXTINF:-1 tvg-name="NTV"tvg-id="Haber_NTV"tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/56a72d98058d024d98970264"group-title="Haber":http-referrer="":http-user-agent="",NTV
 https://dogus.daioncdn.net/ntv/ntv_720p.m3u8?token=e8c0dec16bf84c8cc187224d13811c0e705fd2c58b25d7ee&sid=73ko90juardc&app=c68bddbe-3dbf-49f7-892a-93de5ae37f1f&ce=3
 #EXTINF:-1 tvg-name="Haber Global"tvg-id="Haber_HaberGlobal"tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/603dfe0f866ac31798b3f4fa"group-title="Haber":http-referrer="":http-user-agent="",Haber Global
@@ -61,12 +63,16 @@ http://stream.tvcdn.net/yerel/kanal-3.m3u8
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_1080p.m3u8
 #EXTINF:-1, RIZE TURK TV 
 https://yayin.rizeturk.com:3777/hybrid/play.m3u8
+#EXTINF:-1 tvg-name="A2" tvg-id="" tvg-logo="http://epg.one/img/3961.png" group-title="[🇹🇷TR] ULUSAL",A2
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8
+#EXTINF:-1 tvg-name="SHOWMAX TV" tvg-id="" tvg-logo="http://epg.one/img/3943.png" group-title="[🇹🇷TR] ULUSAL",SHOWMAX TV
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shmax.m3u8
 #EXTINF:-1 tvg-name="TRT Çocuk"tvg-id="CizgiFilm_TRT"tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/13060701.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",TRT Çocuk
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="TRT Diyanet Çocuk"tvg-id="CizgiFilm_TRTDiyanet"tvg-logo="http://assets.tvcdn.net/dba05bf2-9d24-4d20-bc6c-f54a2b60ef7f.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",TRT Diyanet Çocuk
 http://stream.tvcdn.net/cocuk-egitim/trt-diyanet-cocuk.m3u8
 #EXTINF:-1 tvg-name="Cartoon Network"tvg-id="CizgiFilm_CartoonNetwork"tvg-logo="https://i.ibb.co/X5yPXkD/cartoon-network.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Cartoon Network
-https://canlitvulusal.xyz/live/cartoonnetwork/index.m3u8
+https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live.m3u8
 #EXTINF:-1 tvg-logo="tv logo" group-title="⚡Cizgi Film",MINIKA GO
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
 #EXTINF:-1 tvg-logo="tv logo" group-title="⚡Cizgi Film",MINIKA ÇOCUK
