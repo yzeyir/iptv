@@ -42,7 +42,7 @@ https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 #EXTINF:-1 tvg-name="Kanal 24"tvg-id="Haber_Kanal24"tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5dc2bca3866ac331e0feb1ed"group-title="Haber":http-referrer="":http-user-agent="",Kanal 24
 https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
 #EXTINF:-1 tvg-name="TV 100"tvg-id="Haber_TV100"tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/60420fa5866ac32430025edd"group-title="Haber":http-referrer="":http-user-agent="",TV 100
-https://tv100.blutv.com/blutv_tv100_live/live.m3u8
+https://tv100-live.daioncdn.net/tv100/tv100_720p.m3u8
 #EXTINF:-1 tvg-name="Halk TV"tvg-id="Haber_HalkTV"tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5dc2bfbd866ac31da06187c5"group-title="Haber":http-referrer="":http-user-agent="",Halk TV
 https://halktv-live.daioncdn.net/halktv/halktv_720p.m3u8
 #EXTINF:-1 tvg-name="Akit TV "tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7wjo798tTG32htTCwpvQpmhJJYtVN4z0zdQ&s"group-title="Haber":http-referrer="":http-user-agent="",Akit TV
@@ -70,7 +70,7 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shm
 #EXTINF:-1 tvg-name="TRT Çocuk"tvg-id="CizgiFilm_TRT"tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/13060701.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",TRT Çocuk
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="TRT Diyanet Çocuk"tvg-id="CizgiFilm_TRTDiyanet"tvg-logo="http://assets.tvcdn.net/dba05bf2-9d24-4d20-bc6c-f54a2b60ef7f.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",TRT Diyanet Çocuk
-http://stream.tvcdn.net/cocuk-egitim/trt-diyanet-cocuk.m3u8
+https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="Cartoon Network"tvg-id="CizgiFilm_CartoonNetwork"tvg-logo="https://i.ibb.co/X5yPXkD/cartoon-network.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Cartoon Network
 https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live.m3u8
 #EXTINF:-1 tvg-logo="tv logo" group-title="⚡Cizgi Film",MINIKA GO
