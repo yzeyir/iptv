@@ -63,6 +63,17 @@ https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/chunks.m3u8
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_1080p.m3u8
 #EXTINF:-1, RIZE TURK TV 
 https://yayin.rizeturk.com:3777/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/TRT_4K.svg/500px-TRT_4K.svg.png" tvg-name="TRT 4K" group-title="Play Tv | Ulusal",TRT 4K
+http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=1842&extension=m3u8
+#EXTINF:0 tvg-rec="3",PLAY TV SİNEMA TR
+#EXTGRP:Play Tv | Türk
+https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
+#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Bahar
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Bahar.SON.mkv
+
+#EXTINF:0 tvg-rec="3",TRT 4K TR
+#EXTGRP:Play Tv | Türk
+http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/4001/index.m3u8
 #EXTINF:-1 tvg-name="A2" tvg-id="" tvg-logo="http://epg.one/img/3961.png" group-title="[🇹🇷TR] ULUSAL",A2
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8
 #EXTINF:-1 tvg-name="SHOWMAX TV" tvg-id="" tvg-logo="http://epg.one/img/3943.png" group-title="[🇹🇷TR] ULUSAL",SHOWMAX TV
