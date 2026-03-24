@@ -29,10 +29,10 @@ https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 https://turkmedya-live.ercdn.net/tv4/tv4_1080p.m3u8
 #EXTINF:-1 tvg-name="TRT Haber"tvg-id="Haber_TRT"tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/8971102.png"group-title="Haber":http-referrer="":http-user-agent="",TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-name="Haber Türk"tvg-id="Haber_HaberTurk"tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5dc2bf0c866ac331e0feb216"group-title="Haber":http-referrer="":http-user-agent="",Haber Türk
-http://stream.tvcdn.net/haber/haberturk.m3u8
+#EXTINF:-1 group-title="HABER" tvg-id="Haber Turk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/03/Haberturk.com_logo.jpg" ,Haber Turk
+https://stream-extractor.koprulu2.workers.dev/?url=https://m.haberturk.com/canliyayin&ext=m3u8
 #EXTINF:-1 tvg-name="CNN TURK" tvg-id="CNNTurk.tr" tvg-logo="https://i.ibb.co/bFsmkwJ/cnn-turk.png" group-title="HABER",CNN TURK
-https://streams.uzunmuhalefet.com/stream/b9cb7e10-ef07-4379-ab36-039286fcd8f8.m3u8
+https://boncuktvv.siringa-yetmedi.workers.dev/cnnt
 #EXTINF:-1 tvg-name="NTV"tvg-id="Haber_NTV"tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/56a72d98058d024d98970264"group-title="Haber":http-referrer="":http-user-agent="",NTV
 https://dogus.daioncdn.net/ntv/ntv_720p.m3u8?token=e8c0dec16bf84c8cc187224d13811c0e705fd2c58b25d7ee&sid=73ko90juardc&app=c68bddbe-3dbf-49f7-892a-93de5ae37f1f&ce=3
 #EXTINF:-1 tvg-name="Haber Global"tvg-id="Haber_HaberGlobal"tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/603dfe0f866ac31798b3f4fa"group-title="Haber":http-referrer="":http-user-agent="",Haber Global
@@ -50,7 +50,7 @@ https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
 #EXTINF:-1 tvg-name="TRT Belgesel"tvg-id="Belgesel_TRT"tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/8114410.png"group-title="Belgesel":http-referrer="":http-user-agent="",TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="TLC"tvg-id="Belgesel_TLC"tvg-logo="https://img-tlctv.mncdn.com/logo.png"group-title="Belgesel":http-referrer="":http-user-agent="",TLC
-https://trn03.tulix.tv/gt-tlc-tv/index.m3u8
+https://dogus.daioncdn.net/tlc/tlc.m3u8?ce=3&app=1aca0aa1-06e3-41ff-a8e5-38d7df475469
 #EXTINF:-1 tvg-name="DMax"tvg-id="Belgesel_DMax"tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/604a04ef866ac32574736ef6"group-title="Belgesel":http-referrer="":http-user-agent="",DMax
 https://dogus.daioncdn.net/dmax/dmax_720p.m3u8?token=RWJtNmsxSEE5YXI5aWVvdVU0NlcyMjhaTFZXRy84cWcxWEZra3ZIV0pnND0=&sid=7u9skhbfndzh&app=5a02c599-d17e-4982-9b04-090934d51af7&ce=3
 #EXTINF:-1 tvg-id="Kanal3.tr" tvg-logo="http://assets.tvcdn.net/56083fc6-468c-4fdd-bb0c-5fbc65316124.png" group-title="Yerel",Kanal 3
@@ -62,22 +62,41 @@ https://yayin.rizeturk.com:3777/hybrid/play.m3u8
 #EXTINF:-1 tvg-name="A2" tvg-id="" tvg-logo="http://epg.one/img/3961.png" group-title="[🇹🇷TR] ULUSAL",A2
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8
 
-#EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" group-title="Ulusal",Show TV
-https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558
-#EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="https://i.imgur.com/456FWA7.png" group-title="Ulusal - Yurt Disi",Show TV Max
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shmax.m3u8
-#EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="http://assets.tvcdn.net/0c5204fb-e613-4084-b300-8cdcc46309f9.png" group-title="Ulusal",Star TV
+#EXTINF:-1 group-title="ULUSAL" tvg-id="TRT 1.tr" tvg-logo="https://cdn.technettv.com/channel/19958/logo_256_1699961525.png" ,TRT 1
+https://boncuktvv.siringa-yetmedi.workers.dev/trt1
+#EXTINF:-1 group-title="ULUSAL" tvg-id="TRT 1.tr" tvg-logo="https://cdn.technettv.com/channel/19958/logo_256_1699961525.png" ,TRT 1 (Alternatif)
+https://trt.daioncdn.net/trt-1/master.m3u8?app=clean
+#EXTINF:-1 group-title="ULUSAL" tvg-id="TRT 1.tr" tvg-logo="https://cdn.technettv.com/channel/19958/logo_256_1699961525.png" ,TRT 1 (Alternatif 3)
+https://trt.daioncdn.net/trt-1/master_1080p.m3u8?&sid=7lt9umlk1uqx&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
+#EXTINF:-1 group-title="ULUSAL" tvg-id="TRT 2.tr" tvg-logo="https://cdn.technettv.com/channel/20315/logo_256_1699961575.png" ,TRT 2
+https://boncuktvv.siringa-yetmedi.workers.dev/trt2
+#EXTINF:-1 group-title="ULUSAL" tvg-id="TRT 2.tr" tvg-logo="https://cdn.technettv.com/channel/20315/logo_256_1699961575.png" ,TRT 2
+https://tv-trt2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="ULUSAL" tvg-id="SHOW TV.tr" tvg-logo="https://cdn.technettv.com/channel/29716/logo_256_1734935547.jpg" ,Show TV
+https://boncuktvv.siringa-yetmedi.workers.dev/showtv
+#EXTINF:-1 group-title="ULUSAL" tvg-id="SHOW TV.tr" tvg-logo="https://cdn.technettv.com/channel/29716/logo_256_1734935547.jpg" ,Show TV
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
+#EXTINF:-1 group-title="ULUSAL" tvg-id="STAR TV.tr" tvg-logo="https://cdn.technettv.com/channel/20567/logo_256_1699960596.png" ,STAR TV
+https://boncuktvv.siringa-yetmedi.workers.dev/startv
+#EXTINF:-1 group-title="ULUSAL" tvg-id="STAR TV.tr" tvg-logo="https://cdn.technettv.com/channel/20567/logo_256_1699960596.png" ,STAR TV
 https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/tur/star.m3u8
-#EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="https://i.imgur.com/kb165Ot.png" group-title="Ulusal - Yurt Disi",Eurostar
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/estar.m3u8
-#EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" group-title="Ulusal",Kanal D
-http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
-#EXTINF:-1 tvg-id="EuroD.tr" tvg-logo="http://assets.tvcdn.net/f4a83153-48c6-4ece-8082-1b370768f88a.png" group-title="Ulusal - Yurt Disi",Euro D
-http://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
-#EXTINF:-1 tvg-id="TV8.tr" tvg-logo="http://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png" group-title="Ulusal",TV8
-https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dgj3MTh/tv85.png" group-title="Ulusal,TV8 5
-https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web
+#EXTINF:-1 group-title="ULUSAL" tvg-id="STAR TV.tr" tvg-logo="https://cdn.technettv.com/channel/20567/logo_256_1699960596.png" ,STAR TV 
+http://dygvideo.dygdigital.com/live/hls/puhustardai?m3u8
+#EXTINF:-1 group-title="ULUSAL" tvg-id="Euro Star.tr" tvg-logo="https://www.eurostartv.com.tr/img/eurostar-logo.png" ,Euro Star
+https://stream-extractor.koprulu2.workers.dev/?url=https://www.parsatv.com/m/name=Euro-Star&ext=m3u8
+#EXTINF:-1 group-title="ULUSAL" tvg-id="Kanal D.tr" tvg-logo="https://cdn.technettv.com/channel/20483/logo_256_1707397616.png" ,Kanal D
+https://boncuktvv.siringa-yetmedi.workers.dev/kanald
+#EXTINF:-1 group-title="ULUSAL" tvg-id="Kanal D.tr" tvg-logo="https://cdn.technettv.com/channel/20483/logo_256_1707397616.png" ,Kanal D
+https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald_1080p.m3u8
+#EXTINF:-1 group-title="ULUSAL" tvg-id="Kanal D.tr" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/euro-d-buyuk.png" ,Euro D
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
+#EXTINF:-1 group-title="ULUSAL" tvg-id="ATV.tr" tvg-logo="https://cdn.technettv.com/channel/33825/logo_256.png" ,ATV
+https://boncuktvv.siringa-yetmedi.workers.dev/atv
+#EXTINF:-1 group-title="ULUSAL" tvg-id="ATV.tr" tvg-logo="https://cdn.technettv.com/channel/33825/logo_256.png" ,ATV
+http://95.174.71.114/TR-ATV/index.m3u8
+#EXTINF:-1 group-title="ULUSAL" tvg-id="ATV.tr" tvg-logo="https://cdn.technettv.com/channel/33825/logo_256.png" ,ATV(alternatif)
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
+#EXTINF:-1 group-title="ULUSAL" tvg-id="TV8.tr" tvg-logo="https://cdn.technettv.com/channel/33790/logo_256.png" ,TV8
 #EXTINF:-1 tvg-id="DMAX.tr" tvg-logo="http://assets.tvcdn.net/32da9e04-0514-4e3c-b8e1-854f1fc175ed.png" group-title="Eglence",DMAX
 http://dygvideo.dygdigital.com/live/hls/dmaxdai?m3u8
 #EXTINF:-1 tvg-id="TLC.tr" tvg-logo="http://assets.tvcdn.net/9871d781-b961-45cc-a287-c304f02bef1d.png" group-title="Eglence",TLC
